@@ -24,7 +24,7 @@ namespace ProjectAPI_Infrastructure.Repositories
         }
         public async Task<string> AddAnswer(AddAnswerDto addAnswerDto, int questionId, int userId)
         {
-            var similarContentExists = await context.Answers
+            var similarContentExists = await context.Answers.Where(a=>a.QuestionId == questionId)
              .AnyAsync(q => EF.Functions.Like(q.Content, $"%{addAnswerDto.Content}%"));
 
             if (similarContentExists)

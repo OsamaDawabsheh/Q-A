@@ -32,3 +32,4 @@ F:\===FullStack===\C#+ASP\QA\ProjectAPI_Infrastructure\obj\Debug\net8.0\refint\P
 F:\===FullStack===\C#+ASP\QA\ProjectAPI_Infrastructure\obj\Debug\net8.0\ProjectAPI_Infrastructure.pdb
 F:\===FullStack===\C#+ASP\QA\ProjectAPI_Infrastructure\obj\Debug\net8.0\ProjectAPI_Infrastructure.genruntimeconfig.cache
 F:\===FullStack===\C#+ASP\QA\ProjectAPI_Infrastructure\obj\Debug\net8.0\ref\ProjectAPI_Infrastructure.dll
+F:\===FullStack===\C#+ASP\QA\ProjectAPI_Infrastructure\obj\Debug\net8.0\ProjectAPI_Infrastructure.sourcelink.json

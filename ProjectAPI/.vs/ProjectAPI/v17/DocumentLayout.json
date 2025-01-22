@@ -3,35 +3,24 @@
   "WorkspaceRootPath": "F:\\===FullStack===\\C#\u002BASP\\QA\\ProjectAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\===FullStack===\\C#\u002BASP\\ProjectAPI_Infrastructure\\Repositories\\TagRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66C615E8-10FD-4909-A534-C8494EBDE597}|..\\ProjectAPI_Infrastructure\\ProjectAPI_Infrastructure.csproj|f:\\===fullstack===\\c#\u002Basp\\qa\\projectapi_infrastructure\\repositories\\answerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880F5900-C759-478B-8167-5C4A13839D11}|ProjectAPI.csproj|f:\\===fullstack===\\c#\u002Basp\\qa\\projectapi\\controllers\\answercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880F5900-C759-478B-8167-5C4A13839D11}|ProjectAPI.csproj|solutionrelative:controllers\\answercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{880F5900-C759-478B-8167-5C4A13839D11}|ProjectAPI.csproj|f:\\===fullstack===\\c#\u002Basp\\qa\\projectapi\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{880F5900-C759-478B-8167-5C4A13839D11}|ProjectAPI.csproj|solutionrelative:controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{880F5900-C759-478B-8167-5C4A13839D11}|ProjectAPI.csproj|f:\\===fullstack===\\c#\u002Basp\\qa\\projectapi\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{880F5900-C759-478B-8167-5C4A13839D11}|ProjectAPI.csproj|solutionrelative:controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/OSAMA/ProjectAPI/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{880F5900-C759-478B-8167-5C4A13839D11}|ProjectAPI.csproj|f:\\===fullstack===\\c#\u002Basp\\qa\\projectapi\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{880F5900-C759-478B-8167-5C4A13839D11}|ProjectAPI.csproj|solutionrelative:controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/OSAMA/ProjectAPI/True/SqlTable/dbo.AspNetUserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{880F5900-C759-478B-8167-5C4A13839D11}|ProjectAPI.csproj|f:\\===fullstack===\\c#\u002Basp\\qa\\projectapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{880F5900-C759-478B-8167-5C4A13839D11}|ProjectAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\===FullStack===\\C#\u002BASP\\ProjectAPI_Infrastructure\\Repositories\\QuestionRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\===FullStack===\\C#\u002BASP\\ProjectAPI_Infrastructure\\Repositories\\CommentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\===FullStack===\\C#\u002BASP\\ProjectAPI_Infrastructure\\Repositories\\AuthRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\===FullStack===\\C#\u002BASP\\ProjectAPI_Infrastructure\\Repositories\\AnswerRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66C615E8-10FD-4909-A534-C8494EBDE597}|..\\ProjectAPI_Infrastructure\\ProjectAPI_Infrastructure.csproj|f:\\===fullstack===\\c#\u002Basp\\qa\\projectapi_infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,109 +35,69 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TagRepository.cs",
-              "DocumentMoniker": "F:\\===FullStack===\\C#\u002BASP\\ProjectAPI_Infrastructure\\Repositories\\TagRepository.cs",
-              "RelativeDocumentMoniker": "..\\..\\ProjectAPI_Infrastructure\\Repositories\\TagRepository.cs",
-              "ToolTip": "F:\\===FullStack===\\C#\u002BASP\\ProjectAPI_Infrastructure\\Repositories\\TagRepository.cs",
-              "RelativeToolTip": "..\\..\\ProjectAPI_Infrastructure\\Repositories\\TagRepository.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T18:51:01.351Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "QuestionRepository.cs",
-              "DocumentMoniker": "F:\\===FullStack===\\C#\u002BASP\\ProjectAPI_Infrastructure\\Repositories\\QuestionRepository.cs",
-              "RelativeDocumentMoniker": "..\\..\\ProjectAPI_Infrastructure\\Repositories\\QuestionRepository.cs",
-              "ToolTip": "F:\\===FullStack===\\C#\u002BASP\\ProjectAPI_Infrastructure\\Repositories\\QuestionRepository.cs",
-              "RelativeToolTip": "..\\..\\ProjectAPI_Infrastructure\\Repositories\\QuestionRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T18:50:57.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CommentRepository.cs",
-              "DocumentMoniker": "F:\\===FullStack===\\C#\u002BASP\\ProjectAPI_Infrastructure\\Repositories\\CommentRepository.cs",
-              "RelativeDocumentMoniker": "..\\..\\ProjectAPI_Infrastructure\\Repositories\\CommentRepository.cs",
-              "ToolTip": "F:\\===FullStack===\\C#\u002BASP\\ProjectAPI_Infrastructure\\Repositories\\CommentRepository.cs",
-              "RelativeToolTip": "..\\..\\ProjectAPI_Infrastructure\\Repositories\\CommentRepository.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAwDUAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T18:50:51.712Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AuthRepository.cs",
-              "DocumentMoniker": "F:\\===FullStack===\\C#\u002BASP\\ProjectAPI_Infrastructure\\Repositories\\AuthRepository.cs",
-              "RelativeDocumentMoniker": "..\\..\\ProjectAPI_Infrastructure\\Repositories\\AuthRepository.cs",
-              "ToolTip": "F:\\===FullStack===\\C#\u002BASP\\ProjectAPI_Infrastructure\\Repositories\\AuthRepository.cs",
-              "RelativeToolTip": "..\\..\\ProjectAPI_Infrastructure\\Repositories\\AuthRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T18:50:47.809Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "AnswerRepository.cs",
-              "DocumentMoniker": "F:\\===FullStack===\\C#\u002BASP\\ProjectAPI_Infrastructure\\Repositories\\AnswerRepository.cs",
-              "RelativeDocumentMoniker": "..\\..\\ProjectAPI_Infrastructure\\Repositories\\AnswerRepository.cs",
-              "ToolTip": "F:\\===FullStack===\\C#\u002BASP\\ProjectAPI_Infrastructure\\Repositories\\AnswerRepository.cs",
-              "RelativeToolTip": "..\\..\\ProjectAPI_Infrastructure\\Repositories\\AnswerRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "DocumentMoniker": "F:\\===FullStack===\\C#\u002BASP\\QA\\ProjectAPI_Infrastructure\\Repositories\\AnswerRepository.cs",
+              "RelativeDocumentMoniker": "..\\ProjectAPI_Infrastructure\\Repositories\\AnswerRepository.cs",
+              "ToolTip": "F:\\===FullStack===\\C#\u002BASP\\QA\\ProjectAPI_Infrastructure\\Repositories\\AnswerRepository.cs",
+              "RelativeToolTip": "..\\ProjectAPI_Infrastructure\\Repositories\\AnswerRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBoAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T18:50:43.84Z"
+              "WhenOpened": "2025-01-22T18:19:19.983Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AnswerController.cs",
+              "DocumentMoniker": "F:\\===FullStack===\\C#\u002BASP\\QA\\ProjectAPI\\Controllers\\AnswerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AnswerController.cs",
+              "ToolTip": "F:\\===FullStack===\\C#\u002BASP\\QA\\ProjectAPI\\Controllers\\AnswerController.cs",
+              "RelativeToolTip": "Controllers\\AnswerController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:19:12.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TagController.cs",
               "DocumentMoniker": "F:\\===FullStack===\\C#\u002BASP\\QA\\ProjectAPI\\Controllers\\TagController.cs",
               "RelativeDocumentMoniker": "Controllers\\TagController.cs",
               "ToolTip": "F:\\===FullStack===\\C#\u002BASP\\QA\\ProjectAPI\\Controllers\\TagController.cs",
               "RelativeToolTip": "Controllers\\TagController.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAkwIcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAkwGcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T18:49:57.427Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "QuestionController.cs",
-              "DocumentMoniker": "F:\\===FullStack===\\C#\u002BASP\\QA\\ProjectAPI\\Controllers\\QuestionController.cs",
-              "RelativeDocumentMoniker": "Controllers\\QuestionController.cs",
-              "ToolTip": "F:\\===FullStack===\\C#\u002BASP\\QA\\ProjectAPI\\Controllers\\QuestionController.cs",
-              "RelativeToolTip": "Controllers\\QuestionController.cs",
-              "ViewState": "AgIAAMgAAAAAAAAAAAAQwNQAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T18:49:04.229Z"
+              "WhenOpened": "2025-01-22T17:44:27.253Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CommentController.cs",
-              "DocumentMoniker": "F:\\===FullStack===\\C#\u002BASP\\QA\\ProjectAPI\\Controllers\\CommentController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CommentController.cs",
-              "ToolTip": "F:\\===FullStack===\\C#\u002BASP\\QA\\ProjectAPI\\Controllers\\CommentController.cs",
-              "RelativeToolTip": "Controllers\\CommentController.cs",
-              "ViewState": "AgIAAKoAAAAAAAAAAAAQwLgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T18:48:12.707Z"
+              "Title": "dbo.AspNetUsers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/OSAMA/ProjectAPI/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/OSAMA/ProjectAPI/True/SqlTable/dbo.AspNetUsers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-22T17:26:25.655Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "F:\\===FullStack===\\C#\u002BASP\\QA\\ProjectAPI\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "F:\\===FullStack===\\C#\u002BASP\\QA\\ProjectAPI\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAN0AAAAAAAAAAAAQwOwAAABmAAAAAAAAAA==",
+              "Title": "dbo.AspNetUserRoles.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/OSAMA/ProjectAPI/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/OSAMA/ProjectAPI/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-22T17:26:08.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "F:\\===FullStack===\\C#\u002BASP\\QA\\ProjectAPI_Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\ProjectAPI_Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "F:\\===FullStack===\\C#\u002BASP\\QA\\ProjectAPI_Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\ProjectAPI_Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T18:47:27.094Z"
+              "WhenOpened": "2025-01-22T15:40:54.166Z"
             }
           ]
         }

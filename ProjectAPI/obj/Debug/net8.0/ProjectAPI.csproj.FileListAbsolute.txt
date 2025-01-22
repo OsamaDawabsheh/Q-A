@@ -302,3 +302,4 @@ F:\===FullStack===\C#+ASP\QA\ProjectAPI\obj\Debug\net8.0\refint\ProjectAPI.dll
 F:\===FullStack===\C#+ASP\QA\ProjectAPI\obj\Debug\net8.0\ProjectAPI.pdb
 F:\===FullStack===\C#+ASP\QA\ProjectAPI\obj\Debug\net8.0\ProjectAPI.genruntimeconfig.cache
 F:\===FullStack===\C#+ASP\QA\ProjectAPI\obj\Debug\net8.0\ref\ProjectAPI.dll
+F:\===FullStack===\C#+ASP\QA\ProjectAPI\obj\Debug\net8.0\ProjectAPI.sourcelink.json
